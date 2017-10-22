@@ -6,6 +6,6 @@
     <string name="crime_details_label">Details</string>
     <string name="crime_solved_label">Solved</string>
     <string name="contact_police">Contact Police</string>
-    <string name="crime_solved_imageview">Crime Solved ImageView</string>
+    <string name="crime_solved_image_view">Crime Solved ImageView</string>
     <string name="crime_requires_police_label">Requires Police</string>
 </resources>

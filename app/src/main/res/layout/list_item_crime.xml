@@ -42,6 +42,6 @@
         android:layout_marginEnd="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_marginBottom="16dp"
-        android:contentDescription="@string/crime_solved_imageview"/>
+        android:contentDescription="@string/crime_solved_image_view"/>
 
 </android.support.constraint.ConstraintLayout>
